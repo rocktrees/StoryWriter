@@ -6,7 +6,7 @@ I've created a simple system that is able to take detailed story outlines, and c
 
 I did this by leaning into prompt engineering. By outlining clear directions and framework, this software is able to take just a file of bullet points and stitch it together cohesively.
 
-The way I decided to go about this was to feed the LLM one point at a time. This way, the story is written section by section in isolation to the future. This might allow the story to take a life on its own, and not have the beginning parts of the story be influenced by the later points.
+The way I decided to go about this was to feed the LLM one point at a time. This way, the story is written section by section in isolation to the future. This might allow the story to take a life on its own, and not have the beginning parts be influenced by the later points.
 
 # Features
 
