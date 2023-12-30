@@ -114,7 +114,7 @@ def verify_params(parameters: bool):
     return parameters_info
 
 
-def main(key: str = "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",
+def main(key: str = "",
          parameters: bool = False):
     '''Engine of the program
     '''
